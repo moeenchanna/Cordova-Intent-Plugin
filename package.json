@@ -1,0 +1,17 @@
+{
+  "name": "info.paysyslabs.plugins.intent",
+  "version": "1.0.0",
+  "description": "Cordova plugin for intent data",
+  "cordova": {
+    "id": "info.paysyslabs.plugins.intent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Paysys Labs",
+  "license": "ISC"
+}
